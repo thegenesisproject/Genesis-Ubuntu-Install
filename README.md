@@ -32,6 +32,7 @@ Listed below is a set of apps that we found we couldn't live without once Ubuntu
 - [Spotify][16], a popular music streaming app
 - [Brave][17], a faster, more private and secure browser for PC
 - [GNOME Shell Extensions][18], for extra customization of the desktop environment
+- [Postman][19] API client
 
 [1]: https://gitlab.gnome.org/GNOME/gnome-tweaks
 [2]: https://www.thunderbird.net
@@ -51,3 +52,4 @@ Listed below is a set of apps that we found we couldn't live without once Ubuntu
 [16]: https://www.spotify.com
 [17]: https://brave.com
 [18]: https://extensions.gnome.org
+[19]: https://snapcraft.io/postman
